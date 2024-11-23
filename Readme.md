@@ -1,6 +1,7 @@
 # vtube(a feature rich video hosting website with tweet functionality)
 
-Features
+# Features ->
+
 Video Hosting: Upload, stream, and share videos seamlessly.
 Tweet-like Functionality: Share short, text-based posts with your followers.
 User Authentication: Secure sign-up, login, and password recovery using JWT and bcrypt.
